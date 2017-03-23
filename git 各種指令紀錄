@@ -8,9 +8,9 @@
 * git commit -m "版本紀錄的說明文字"
 * git log
 * git log -10
-* git rm '*.txt'
+* git rm '*.txt'   刪除
 * git rm 'app/*.html'
-* git mv 'oldname' 'newname'
+* git mv 'oldname' 'newname'  重新命名
 * git reset
 * git reset --hard
-* git checkout master 'filename'
+* git checkout master 'filename'   切換分支
