@@ -1,0 +1,16 @@
+* git init
+* git add .
+* git add app/*
+* git add *.txt
+* git status
+* git status -s
+* git commit
+* git commit -m "版本紀錄的說明文字"
+* git log
+* git log -10
+* git rm '*.txt'
+* git rm 'app/*.html'
+* git mv 'oldname' 'newname'
+* git reset
+* git reset --hard
+* git checkout master 'filename'
