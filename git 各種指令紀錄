@@ -10,6 +10,7 @@
 * git log -10
 * git rm '*.txt'   刪除
 * git rm 'app/*.html'
+* git rm --cached a.txt 刪除git 索引檔,不刪除檔案
 * git mv 'oldname' 'newname'  重新命名
 * git reset
 * git reset --hard
