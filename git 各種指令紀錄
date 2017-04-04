@@ -14,4 +14,5 @@
 * git mv 'oldname' 'newname'  重新命名
 * git reset
 * git reset --hard
+* git branch [BranchName] 建立分支
 * git checkout master 'filename'   切換分支
