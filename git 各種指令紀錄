@@ -15,6 +15,6 @@
 * git reset
 * git reset --hard
 * git branch [BranchName] 建立分支
-* git checkout master 'filename'   切換分支
+* git checkout [BranchName]   切換分支
 * git checkout -b [BranchName] 建立並切換到新分支
 * git branch -d [BranchName] 刪除分支
