@@ -26,3 +26,4 @@
 * git diff [commit1 old]  [commit2 new]   比對版本間的差異.前為舊.後為新
 * git diff HEAD 比對工作目錄與當前分支
 * git diff --cached HEAD 比對當前索引狀態與當前分支的最新版
+* git stash 未commit的版本建立一個特殊版本(commit物件).即為暫存版
