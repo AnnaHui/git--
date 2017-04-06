@@ -11,6 +11,7 @@
 * git commit
 * git commit -m "版本紀錄的說明文字"
 * git log 取得版本資訊
+* git log --pretty=oneline 取得分支的所有版本資料
 * git log -10
 * git rm '*.txt'   刪除
 * git rm 'app/*.html'
