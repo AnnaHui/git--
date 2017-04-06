@@ -1,3 +1,7 @@
+**
+--staged =  --cached 
+
+
 * git init
 * git add .
 * git add app/*
@@ -19,3 +23,5 @@
 * git checkout -b [BranchName] 建立並切換到新分支
 * git branch -d [BranchName] 刪除分支
 * git diff [commit1 old]  [commit2 new]   比對版本間的差異.前為舊.後為新
+* git diff HEAD 比對工作目錄與當前分支
+* git diff --cached HEAD 比對當前索引狀態與當前分支的最新版
